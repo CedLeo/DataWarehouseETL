@@ -1,0 +1,10 @@
+order_id,order_date,store_id,store_name,barangay,city,product_id,product_name,category,quantity,unit_price
+ORD-2001,2026-10-05,S004,Tindahan ni Mara,Brgy. Maligaya,Manila,P101,Chili garlic oil,Condiments,3,85.00
+ORD-2002,2026-10-05,S004,Tindahan ni Mara,Brgy. Maligaya,Manila,P102,Calamansi juice,Drinks,4,35.00
+ORD-2003,2026-10-06,S004,Tindahan ni Mara,Brgy. Maligaya,Manila,P103, banana chips , snacks ,5,20.00
+ORD-2004,2026-10-06,S004,Tindahan ni Mara,Brgy. Maligaya,Manila,P104,Turon wrapper,Snacks,2,48.00
+ORD-2005,2026-10-07,S004,Tindahan ni Mara,Brgy. Maligaya,Manila,P105,Detergent sachet,Household,6,12.00
+ORD-2006,2026-10-07,S004,Tindahan ni Mara,Brgy. Maligaya,Manila,P106,Wooden clothespins,Household,2,30.00
+ORD-2007,2026-10-08,S004,Tindahan ni Mara,Brgy. Maligaya,Manila,P107,Instant lugaw,Meals,1,
+ORD-2001,2026-10-05,S004,Tindahan ni Mara,Brgy. Maligaya,Manila,P101,Chili garlic oil,Condiments,3,85.00
+ORD-2008,2026-10-08,S004,Tindahan ni Mara,Brgy. Maligaya,Manila,P108,Party-size rice sack,Grains,1,120.00

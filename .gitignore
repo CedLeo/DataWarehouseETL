@@ -1,0 +1,18 @@
+# Airflow task and scheduler logs
+logs/
+
+# Generated raw and staged data; keep the expected directories in Git
+datalake/**
+!datalake/raw/
+!datalake/staged/
+datalake/raw/*
+!datalake/raw/.gitkeep
+datalake/staged/*
+!datalake/staged/.gitkeep
+
+# Local environment overrides
+.env
+
+# Python bytecode
+__pycache__/
+*.py[cod]
